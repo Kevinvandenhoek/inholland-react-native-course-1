@@ -1,7 +1,7 @@
 # React Native Course - 1
 
 ## Slide decks
-- [Brief History of Hybrid Development](https://levizimmerman.github.io/inholland-react-native-course-1/slides/brief-history-of-hybrid-development.html)
+- [Brief History of Hybrid Development](https://kevinvandenhoek.github.io/inholland-react-native-course-1/slides/brief-history-of-hybrid-development.html)
 
 ## Homework
 - Start the Pokédex app project:
